@@ -1,0 +1,926 @@
+[
+  {
+    "acAircraftNo": "41-29231",
+    "perIdentification": 34618,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "41-29231",
+    "perIdentification": 21152,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "41-29231",
+    "perIdentification": 22173,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "41-29231",
+    "perIdentification": 34619,
+    "accRank": "Master Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "41-29231",
+    "perIdentification": 21223,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "41-29231",
+    "perIdentification": 20309,
+    "accRank": "Private",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-99970",
+    "perIdentification": 20390,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-99970",
+    "perIdentification": 21216,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-99970",
+    "perIdentification": 19336,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-99970",
+    "perIdentification": 22976,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-99970",
+    "perIdentification": 19766,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7547",
+    "perIdentification": 34620,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7547",
+    "perIdentification": 34621,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7547",
+    "perIdentification": 34622,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7547",
+    "perIdentification": 19372,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7547",
+    "perIdentification": 34623,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "41-23779",
+    "perIdentification": 20476,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "41-23779",
+    "perIdentification": 34624,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "41-23779",
+    "perIdentification": 34625,
+    "accRank": "Staff Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "41-23779",
+    "perIdentification": 20217,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "41-23779",
+    "perIdentification": 22184,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7549",
+    "perIdentification": 34626,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7549",
+    "perIdentification": 34627,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7549",
+    "perIdentification": 34628,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7549",
+    "perIdentification": 22289,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7549",
+    "perIdentification": 34629,
+    "accRank": "Private",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7549",
+    "perIdentification": 34630,
+    "accRank": "Private",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72865",
+    "perIdentification": 19270,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72865",
+    "perIdentification": 34631,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72865",
+    "perIdentification": 20653,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72865",
+    "perIdentification": 21398,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72865",
+    "perIdentification": 20334,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72865",
+    "perIdentification": 19268,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72873",
+    "perIdentification": 23797,
+    "accRank": "Tech Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72873",
+    "perIdentification": 34632,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72873",
+    "perIdentification": 34633,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72873",
+    "perIdentification": 23607,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72873",
+    "perIdentification": 20144,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-72873",
+    "perIdentification": 34634,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7552",
+    "perIdentification": 34635,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7552",
+    "perIdentification": 34636,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7552",
+    "perIdentification": 34637,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7552",
+    "perIdentification": 34638,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7552",
+    "perIdentification": 34639,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7552",
+    "perIdentification": 21680,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7552",
+    "perIdentification": 21309,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7767",
+    "perIdentification": 34640,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7767",
+    "perIdentification": 34641,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7767",
+    "perIdentification": 20257,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7767",
+    "perIdentification": 34642,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7767",
+    "perIdentification": 21851,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7767",
+    "perIdentification": 34643,
+    "accRank": "Private",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-7767",
+    "perIdentification": 34644,
+    "accRank": "Private",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95531",
+    "perIdentification": 34626,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95531",
+    "perIdentification": 20653,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95531",
+    "perIdentification": 22289,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95531",
+    "perIdentification": 20814,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95531",
+    "perIdentification": 34645,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-48821",
+    "perIdentification": 34646,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-48821",
+    "perIdentification": 19544,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-48821",
+    "perIdentification": 34614,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-48821",
+    "perIdentification": 34647,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-48821",
+    "perIdentification": 34648,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50539",
+    "perIdentification": 19336,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50539",
+    "perIdentification": 21223,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50539",
+    "perIdentification": 19372,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50539",
+    "perIdentification": 22418,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50763",
+    "perIdentification": 34628,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50763",
+    "perIdentification": 34622,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50763",
+    "perIdentification": 34623,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50763",
+    "perIdentification": 20454,
+    "accRank": "Colonel",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50763",
+    "perIdentification": 34649,
+    "accRank": "Private",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-109896",
+    "perIdentification": 19243,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-109896",
+    "perIdentification": 34650,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-109896",
+    "perIdentification": 34651,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-109896",
+    "perIdentification": 34652,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-49556",
+    "perIdentification": 34653,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-49556",
+    "perIdentification": 34654,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-49556",
+    "perIdentification": 20611,
+    "accRank": "Staff Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-49556",
+    "perIdentification": 34655,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50741",
+    "perIdentification": 34618,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50741",
+    "perIdentification": 22173,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50741",
+    "perIdentification": 34627,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50741",
+    "perIdentification": 19766,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50741",
+    "perIdentification": 34656,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50690",
+    "perIdentification": 34657,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50690",
+    "perIdentification": 22976,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50690",
+    "perIdentification": 34658,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50690",
+    "perIdentification": 20924,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-49323",
+    "perIdentification": 34659,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-49323",
+    "perIdentification": 21297,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-49323",
+    "perIdentification": 34619,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-49323",
+    "perIdentification": 22756,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50571",
+    "perIdentification": 34631,
+    "accRank": "Tech Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50571",
+    "perIdentification": 34660,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50571",
+    "perIdentification": 22184,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50571",
+    "perIdentification": 19992,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95193",
+    "perIdentification": 20476,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95193",
+    "perIdentification": 21398,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95193",
+    "perIdentification": 20334,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95193",
+    "perIdentification": 20042,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50578",
+    "perIdentification": 34637,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50578",
+    "perIdentification": 19982,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50578",
+    "perIdentification": 34661,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-50578",
+    "perIdentification": 19373,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-10503",
+    "perIdentification": 20410,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-10503",
+    "perIdentification": 20315,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-10503",
+    "perIdentification": 22655,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "44-10503",
+    "perIdentification": 21680,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-94846",
+    "perIdentification": 34625,
+    "accRank": "Tech Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-94846",
+    "perIdentification": 21309,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-94846",
+    "perIdentification": 34642,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-94846",
+    "perIdentification": 19367,
+    "accRank": "Corporal",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95087",
+    "perIdentification": 34632,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95087",
+    "perIdentification": 34636,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95087",
+    "perIdentification": 34638,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95087",
+    "perIdentification": 20144,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95087",
+    "perIdentification": 34662,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95318",
+    "perIdentification": 23797,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95318",
+    "perIdentification": 23607,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95318",
+    "perIdentification": 22012,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95318",
+    "perIdentification": 22639,
+    "accRank": "Private First Class",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95318",
+    "perIdentification": 34663,
+    "accRank": "Private",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50795",
+    "perIdentification": 34633,
+    "accRank": "Staff Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50795",
+    "perIdentification": 34664,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50795",
+    "perIdentification": 34665,
+    "accRank": "Sergeant",
+    "accDuties": null,
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50896",
+    "perIdentification": 20869,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50896",
+    "perIdentification": 20813,
+    "accRank": "Staff Sergeant",
+    "accDuties": "A&E Mechanic",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-95001",
+    "perIdentification": 19318,
+    "accRank": null,
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50806",
+    "perIdentification": 22626,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "42-50806",
+    "perIdentification": 22402,
+    "accRank": "Sergeant",
+    "accDuties": "Assistant Crew Chief",
+    "accComments": null
+  },
+  {
+    "acAircraftNo": "41-23784",
+    "perIdentification": 34618,
+    "accRank": "Master Sergeant",
+    "accDuties": "Crew Chief",
+    "accComments": "See Legacy Page"
+  }
+]

@@ -1,0 +1,4 @@
+*.EXE
+.idea/
+*.DLL
+node_modules/
